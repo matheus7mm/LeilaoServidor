@@ -20,6 +20,7 @@ public class LeilaoServidor {
         
         int matheus = 0;
         int marcos = 1;
+        int maisa = 2;
     }
     
 }
