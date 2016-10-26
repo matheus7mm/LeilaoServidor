@@ -5,6 +5,7 @@
  */
 package leilaoservidor;
 
+
 /**
  *
  * @author trabalho
@@ -16,6 +17,8 @@ public class LeilaoServidor {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        int matheus = 0;
     }
     
 }
