@@ -19,6 +19,7 @@ public class LeilaoServidor {
         // TODO code application logic here
         
         int matheus = 0;
+        int marcos = 1;
     }
     
 }
